@@ -19,9 +19,14 @@ h1{
 	font-size:1.2em;
 }
 
-.text-primary{
-	color:#FA8072!important;
+.text-primary {
+    color: #28a745!important
 }
 a{
-	color:#FA8072;
+	color:#20c997;
 }
+
+.bg-primary {
+    background-color: #20c997!important;
+}
+
