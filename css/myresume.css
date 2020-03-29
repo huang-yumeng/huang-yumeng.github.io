@@ -28,13 +28,17 @@ h1 .text-primary {
 }
 
 .text-primary {
-    color: #28a745!important
+    color: #ff4500!important
 }
 a{
-	color:#20c997;
+	color: #ffa07a;
 }
 
 .bg-primary {
-    background-color: #20c997!important;
+    background-color: #ffa07a!important;
+}
+
+section class{
+	background-color: #ffe4c4
 }
 
