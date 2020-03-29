@@ -53,4 +53,9 @@ p.lead{
 	background-color: #faebd7;
 }
 
+section.resume-section {
+	background-repeat: repeat;
+	background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+}
+
 
