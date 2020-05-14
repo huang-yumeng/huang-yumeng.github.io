@@ -130,7 +130,17 @@ section.resume-section {
 }
 
 .twicon-taipei101:before{
-	font-size: 12rem;
+	font-size: 3rem;
 }
+
+.twicon-cks-hall:before{
+	font-size: 2.5rem;
+}
+
+.twicon-raohe-nm:before{
+	font-size: 2.5rem;
+}
+
+
 
 >>>>>>> 98948a598529d505b4058b523c54d4362eb76fff
