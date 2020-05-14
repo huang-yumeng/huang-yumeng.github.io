@@ -125,10 +125,6 @@ section.resume-section {
         border-color: #808080;
 }
 
-[class^="twicon-"]{
-	font-size: 12rem;
-}
-
 .twicon-taipei101:before{
 	font-size: 3rem;
 }
