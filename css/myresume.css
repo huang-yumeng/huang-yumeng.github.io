@@ -125,4 +125,8 @@ section.resume-section {
         border-color: #808080;
 }
 
+[class^="twicon-"]{
+	font-size: 1rem;
+}
+
 >>>>>>> 98948a598529d505b4058b523c54d4362eb76fff
