@@ -33,6 +33,11 @@ h1 .text-primary {
     color: #FF7744!important
 }
 
+.dev-icons {
+    font-size: 3rem;
+    color:#8a8a8a;
+}
+
 a{
 	color: #ffa07a;
 	background-position:top left;
