@@ -19,6 +19,10 @@ h1 {
 	
 }
 
+h7 {
+    font-size: 1.5rem;
+}
+
 h1 .text-primary {
     font-size: 4.5rem;
 }
